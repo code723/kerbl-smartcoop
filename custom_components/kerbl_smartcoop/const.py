@@ -1,0 +1,1 @@
+DOMAIN = "kerbl_smartcoop"

@@ -1,0 +1,6 @@
+{
+  "name": "Kerbl SmartCoop",
+  "content_in_root": false,
+  "domains": ["kerbl_smartcoop"],
+  "homeassistant": "2024.0.0"
+}
