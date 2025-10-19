@@ -6,7 +6,7 @@ Diese Integration bindet den **Kerbl SmartCoop Stallcontroller** in Home Assista
 
 1. [HACS](https://hacs.xyz) installieren.
 2. In HACS → Integrationen → Custom Repositories:
-   - URL: `https://github.com/deinuser/kerbl-smartcoop`
+   - URL: `https://github.com/code723/kerbl-smartcoop`
    - Kategorie: `Integration`
 3. Danach die Integration "Kerbl SmartCoop" installieren.
 4. Home Assistant neu starten.
