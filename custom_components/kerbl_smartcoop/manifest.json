@@ -2,8 +2,8 @@
   "domain": "kerbl_smartcoop",
   "name": "Kerbl SmartCoop",
   "version": "0.0.1",
-  "documentation": "https://github.com/deinuser/kerbl-smartcoop",
-  "issue_tracker": "https://github.com/deinuser/kerbl-smartcoop/issues",
+  "documentation": "https://github.com/code723/kerbl-smartcoop",
+  "issue_tracker": "https://github.com/code723/kerbl-smartcoop/issues",
   "requirements": ["aiohttp>=3.9.0"],
   "codeowners": ["@deinuser"],
   "iot_class": "cloud_push"
